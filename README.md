@@ -13,42 +13,30 @@
 
    • Seat change Command
 
-   Added by me:
+   Made by ne:
    
-   • Can be used on foot or in car!
-
-   • Added multiple custom classes with pre-made features like clothing, dpEmotes things...!
-
-   • Notations to make custom functions.
-
-   • UI style changes!
-
-   • /radialfix command incase the menu freezes! (Unfortunately it happens often, if you know how to fix it contact me.)
-
+   • English version :D
+   • UI cleanup
 
    Added by the community:
 
    • Update from Puntzi: Optimization
+   
 
-🆘 Do you need any help? Contact me on discord! @Alphaonef#3658
+🆘 Do you need any help? Contact me on discord! @Steffe#9910
 
-💬 FiveM Finland Discord: https://discord.gg/xZFG69p3Cx
 
 ✨ Original release: https://forum.cfx.re/t/free-release-vehicle-control-radial-menu-commands/4813817
 
 📸 Preview:
 
- ![CustomRadialMenu](https://user-images.githubusercontent.com/71275992/160847156-1035fbb7-d854-4a65-bc74-8d5f0273c200.PNG)
+
 
 🎭 Depency's: https://github.com/JayMontana36/mythic_notify
 
-💙 Yes, i know, there is some things wrotten in Finnish, cause i am from Finland.
+```![Pic1](https://user-images.githubusercontent.com/95856241/184910061-239e55ed-5e4f-45b6-abe8-ad217f371473.png)
+![pic2](https://user-images.githubusercontent.com/95856241/184910069-3ffc25f8-0257-4431-b711-050ed9fc05b1.png)
 
-📃 Docs how to make a command for a function:
-
-💻 Just add that to a client.lua
-
-```
 RegisterCommand("commandname", function() --The name of the command
     print("Works") --Print to verify if the command works.
     TriggerEvent('script_name:functionName') --The event that will be triggered 
